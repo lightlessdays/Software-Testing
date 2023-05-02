@@ -4,10 +4,15 @@ Software testing is the process of evaluating and verifying that a software prod
 
 ### Table of Contents
 <a href="https://github.com/lightlessdays/Software-Testing/blob/main/01.%20What%20is%20Software%20Testing%3F.md">01. What is Software Testing?</a>
+
 <a href="https://github.com/lightlessdays/Software-Testing/blob/main/02.%20Software%20Testing%20Lifecycle.md">02. Software Testing Lifecycle.md</a>
+
 <a href="https://github.com/lightlessdays/Software-Testing/blob/main/03.%20Agile%20Methodology%20in%20Software%20Testing.md">03. Agile Methodology in Software Testing</a>
+
 <a href="https://github.com/lightlessdays/Software-Testing/blob/main/04.%20Quality%20Assurance%20and%20Quality%20Control.md">04. Quality Assurance and Quality Control</a>
+
 <a href="https://github.com/lightlessdays/Software-Testing/blob/main/05.%20Different%20Types%20of%20Testing.md">05. Different Types of Testing</a>
+
 
 ### Contributions
 
