@@ -18,5 +18,5 @@ Software testing is the process of evaluating and verifying that a software prod
 
 If you want to contribute to this series, please submit a pull request. Also make sure that you have a Hashnode account if you want your name to be featured in our Hashnode blog as well. Please make sure to add your contact details (e-mail or phone number) in your pull request so that we can contact you.
 
-### Originally Published under BinaryBits.hashnode.dev
+#### Originally Published under https://binarybits.hashnode.dev
 
